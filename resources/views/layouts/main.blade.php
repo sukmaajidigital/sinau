@@ -84,9 +84,9 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="/penggajian">
               <span data-feather="shopping-cart"></span>
-              Products
+              Penggajian
             </a>
           </li>
           

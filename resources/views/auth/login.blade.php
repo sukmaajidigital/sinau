@@ -64,10 +64,10 @@
                             <input type="checkbox" value="remember-me"> Remember me
                         </label>
                         </div>
-                        <button class="w-100 btn btn-lg btn-warning btn-color"  type="submit">
-                            <font class="dm-sans-font white-font-color">
-                                Sign in
-                            </font>
+                        <button class="w-100 btn btn-lg btn-warning "  type="button" >
+
+                               <a class="dm-sans-font white-font-color" href="/dashboard" >Sign in</a> 
+
                         </button>
 
                         
